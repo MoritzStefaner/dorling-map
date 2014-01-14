@@ -1,0 +1,459 @@
+{
+	"features": [{
+		"id": "Australia",
+		"properties": {
+			"name": "Australia",
+			"geo_accuracy": "administrative",
+			"geo_longitude": 136.671401519549,
+			"geo_latitude": -24.8035905963108
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [136.671401519549, -24.8035905963108]
+		}
+	}, {
+		"id": "Austria",
+		"properties": {
+			"name": "Austria",
+			"geo_accuracy": "administrative",
+			"geo_longitude": 14.1403133724459,
+			"geo_latitude": 47.5870705408886
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [14.1403133724459, 47.5870705408886]
+		}
+	}, {
+		"id": "Belgium",
+		"properties": {
+			"name": "Belgium",
+			"geo_accuracy": "administrative",
+			"geo_longitude": 4.5788363560432,
+			"geo_latitude": 50.6725894678675
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [4.5788363560432, 50.6725894678675]
+		}
+	}, {
+		"id": "Canada",
+		"properties": {
+			"name": "Canada",
+			"geo_accuracy": "administrative",
+			"geo_longitude": -96.0811218404593,
+			"geo_latitude": 62.8661033080922
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-96.0811218404593, 62.8661033080922]
+		}
+	}, {
+		"id": "Chile",
+		"properties": {
+			"name": "Chile",
+			"geo_accuracy": "country",
+			"geo_longitude": -71.31877,
+			"geo_latitude": -31.7613365
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-71.31877, -31.7613365]
+		}
+	}, {
+		"id": "Czech Republic",
+		"properties": {
+			"name": "Czech Republic",
+			"geo_accuracy": "country",
+			"geo_longitude": 15.4749544,
+			"geo_latitude": 49.8167003
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [15.4749544, 49.8167003]
+		}
+	}, {
+		"id": "Denmark",
+		"properties": {
+			"name": "Denmark",
+			"geo_accuracy": "administrative",
+			"geo_longitude": 10.4452265838056,
+			"geo_latitude": 56.002385797452
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [10.4452265838056, 56.002385797452]
+		}
+	}, {
+		"id": "Estonia",
+		"properties": {
+			"name": "Estonia",
+			"geo_accuracy": "administrative",
+			"geo_longitude": 24.8536350727576,
+			"geo_latitude": 58.7060434794798
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [24.8536350727576, 58.7060434794798]
+		}
+	}, {
+		"id": "Finland",
+		"properties": {
+			"name": "Finland",
+			"geo_accuracy": "administrative",
+			"geo_longitude": 25.7333503166835,
+			"geo_latitude": 64.1301820088672
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [25.7333503166835, 64.1301820088672]
+		}
+	}, {
+		"id": "France",
+		"properties": {
+			"name": "France",
+			"geo_accuracy": "administrative",
+			"geo_longitude": 2.33778000696378,
+			"geo_latitude": 46.5317921329604
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [2.33778000696378, 46.5317921329604]
+		}
+	}, {
+		"id": "Germany",
+		"properties": {
+			"name": "Germany",
+			"geo_accuracy": "administrative",
+			"geo_longitude": 10.3702311377801,
+			"geo_latitude": 51.3229242627804
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [10.3702311377801, 51.3229242627804]
+		}
+	}, {
+		"id": "Greece",
+		"properties": {
+			"name": "Greece",
+			"geo_accuracy": "administrative",
+			"geo_longitude": 23.9989792853908,
+			"geo_latitude": 38.2483461190951
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [23.9989792853908, 38.2483461190951]
+		}
+	}, {
+		"id": "Hungary",
+		"properties": {
+			"name": "Hungary",
+			"geo_accuracy": "administrative",
+			"geo_longitude": 19.41223440701,
+			"geo_latitude": 47.1653321027847
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [19.41223440701, 47.1653321027847]
+		}
+	}, {
+		"id": "Iceland",
+		"properties": {
+			"name": "Iceland",
+			"geo_accuracy": "administrative",
+			"geo_longitude": -18.9371978498469,
+			"geo_latitude": 65.089921497287
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-18.9371978498469, 65.089921497287]
+		}
+	}, {
+		"id": "Ireland",
+		"properties": {
+			"name": "Ireland",
+			"geo_accuracy": "administrative",
+			"geo_longitude": -8.3497513219418,
+			"geo_latitude": 53.1813140685836
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-8.3497513219418, 53.1813140685836]
+		}
+	}, {
+		"id": "Israel",
+		"properties": {
+			"name": "Israel",
+			"geo_accuracy": "administrative",
+			"geo_longitude": 34.9760290315634,
+			"geo_latitude": 31.563409567096
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [34.9760290315634, 31.563409567096]
+		}
+	}, {
+		"id": "Italy",
+		"properties": {
+			"name": "Italy",
+			"geo_accuracy": "administrative",
+			"geo_longitude": 12.4546358810872,
+			"geo_latitude": 41.9899901477598
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [12.4546358810872, 41.9899901477598]
+		}
+	}, {
+		"id": "Japan",
+		"properties": {
+			"name": "Japan",
+			"geo_accuracy": "administrative",
+			"geo_longitude": 136.329402140414,
+			"geo_latitude": 35.9452191992309
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [136.329402140414, 35.9452191992309]
+		}
+	}, {
+		"id": "United States",
+		"properties": {
+			"name": "United States",
+			"geo_accuracy": "hamlet",
+			"geo_longitude": -83.4785181,
+			"geo_latitude": 37.9420287
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-83.4785181, 37.9420287]
+		}
+	}, {
+		"id": "Luxembourg",
+		"properties": {
+			"name": "Luxembourg",
+			"geo_accuracy": "administrative",
+			"geo_longitude": 6.09238991783088,
+			"geo_latitude": 49.7768818590212
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [6.09238991783088, 49.7768818590212]
+		}
+	}, {
+		"id": "Mexico",
+		"properties": {
+			"name": "Mexico",
+			"geo_accuracy": "administrative",
+			"geo_longitude": -103.373900728424,
+			"geo_latitude": 23.996424387451
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-103.373900728424, 23.996424387451]
+		}
+	}, {
+		"id": "Netherlands",
+		"properties": {
+			"name": "Netherlands",
+			"geo_accuracy": "administrative",
+			"geo_longitude": -0.234110473113439,
+			"geo_latitude": 49.4026355007017
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-0.234110473113439, 49.4026355007017]
+		}
+	}, {
+		"id": "New Zealand",
+		"properties": {
+			"name": "New Zealand",
+			"geo_accuracy": "administrative",
+			"geo_longitude": 172.19,
+			"geo_latitude": -41.43
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [172.19, -41.43]
+		}
+	}, {
+		"id": "Norway",
+		"properties": {
+			"name": "Norway",
+			"geo_accuracy": "administrative",
+			"geo_longitude": 14.2476196306026,
+			"geo_latitude": 65.0837339717189
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [14.2476196306026, 65.0837339717189]
+		}
+	}, {
+		"id": "Poland",
+		"properties": {
+			"name": "Poland",
+			"geo_accuracy": "administrative",
+			"geo_longitude": 19.3209142922664,
+			"geo_latitude": 52.2091316845618
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [19.3209142922664, 52.2091316845618]
+		}
+	}, {
+		"id": "Portugal",
+		"properties": {
+			"name": "Portugal",
+			"geo_accuracy": "administrative",
+			"geo_longitude": -13.1379437689524,
+			"geo_latitude": 38.7420540436146
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-13.1379437689524, 38.7420540436146]
+		}
+	}, {
+		"id": "Slovak Republic",
+		"properties": {
+			"name": "Slovak Republic",
+			"geo_accuracy": "country",
+			"geo_longitude": 19.4528641,
+			"geo_latitude": 48.7411522
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [19.4528641, 48.7411522]
+		}
+	}, {
+		"id": "Slovenia",
+		"properties": {
+			"name": "Slovenia",
+			"geo_accuracy": "administrative",
+			"geo_longitude": 14.8117528981082,
+			"geo_latitude": 46.1149077685593
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [14.8117528981082, 46.1149077685593]
+		}
+	}, {
+		"id": "Spain",
+		"properties": {
+			"name": "Spain",
+			"geo_accuracy": "administrative",
+			"geo_longitude": -4.03154056226247,
+			"geo_latitude": 39.6029685923302
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-4.03154056226247, 39.6029685923302]
+		}
+	}, {
+		"id": "Sweden",
+		"properties": {
+			"name": "Sweden",
+			"geo_accuracy": "administrative",
+			"geo_longitude": 16.9016059132089,
+			"geo_latitude": 62.3435495255451
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [16.9016059132089, 62.3435495255451]
+		}
+	}, {
+		"id": "Switzerland",
+		"properties": {
+			"name": "Switzerland",
+			"geo_accuracy": "administrative",
+			"geo_longitude": 8.22982205107805,
+			"geo_latitude": 46.8002860055228
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [8.22982205107805, 46.8002860055228]
+		}
+	}, {
+		"id": "Turkey",
+		"properties": {
+			"name": "Turkey",
+			"geo_accuracy": "administrative",
+			"geo_longitude": 34.8474450265151,
+			"geo_latitude": 39.0965346174196
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [34.8474450265151, 39.0965346174196]
+		}
+	}, {
+		"id": "United Kingdom",
+		"properties": {
+			"name": "United Kingdom",
+			"geo_accuracy": "country",
+			"geo_longitude": -3.2765753,
+			"geo_latitude": 54.7023545
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-3.2765753, 54.7023545]
+		}
+	}, {
+		"id": "Korea",
+		"properties": {
+			"name": "Korea",
+			"geo_accuracy": "residential",
+			"geo_longitude": 127.62,
+			"geo_latitude": 36.46
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [127.62, 36.46]
+		}
+	},{
+		"id": "OECD - Average",
+		"properties": {
+			"name": "OECD - Average",
+			"geo_accuracy": "residential",
+			"geo_longitude": 80,
+			"geo_latitude": -40
+		},
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [80,-40]
+		}
+	}],
+	"type": "FeatureCollection"
+}
